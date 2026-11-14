@@ -14,8 +14,8 @@ DB_PATH = "warehouse.db"
 
 engine = create_engine(f"sqlite:///{DB_PATH}")
 
-USERNAME = "Toshimah"
-PASSWORD = "123456789"
+USERNAME = "Rehaan"
+PASSWORD = "79"
 ACCESS_TOKEN_EXPIRY = 15
 REFRESH_TOKEN_EXPIRY = 7 * 24 * 60
 SECRET_KEY = "SECRET123"
